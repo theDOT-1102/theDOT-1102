@@ -1,0 +1,19 @@
+body{
+  background: black;
+}
+.container{
+  max-width: 300px;
+  width: 100%;
+  margin: 0 auto;
+}
+#XMLID_226_{
+  animation: draw 10s forwards;
+}
+ 
+ @keyframes draw {
+  from{}
+ 
+  to {
+    stroke-dashoffset: 0;
+  }
+}
